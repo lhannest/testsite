@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why"
-date: 2014-04-30
+title: "Why is this so dumb"
+date: 2016-04-30
 ---
 
 this is SO DUMB. SO VERY DUMB.
