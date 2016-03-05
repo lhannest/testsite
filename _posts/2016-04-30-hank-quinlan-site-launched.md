@@ -13,7 +13,6 @@ $$
         1 & z & z^2 \\
         \end{bmatrix}
 $$
-I do not understand why plain text is not appearing!
 
 \begin{bmatrix}
         1 & x & x^2 \\
